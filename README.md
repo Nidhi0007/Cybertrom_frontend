@@ -7,4 +7,7 @@ Developed simple webpage describing myself
 -navigation within the page when clicked
 -social media links with icon.
 
+reference images:
+https://www.freepik.com/search?dates=any&format=search&page=1&query=networking&sort=popular
+
 
