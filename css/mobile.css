@@ -1,0 +1,18 @@
+@media only screen and (max-width: 999px) {
+   
+    .col-sm-12 {
+        
+        padding: 10px;
+    }
+    .col-md-6 .panel {
+        
+        top: 137px;
+        
+        padding: 8vmin 5vmin 9vmin 7vmin;
+        
+    }
+    .card-title {
+       
+        font-size: 15px;
+    }
+    }
